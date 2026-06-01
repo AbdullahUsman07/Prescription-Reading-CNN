@@ -1,0 +1,8 @@
+# Ignore data files and folders
+dataset/
+*.zip
+*.tar.gz
+
+# Ignore local checkpoints or python cache
+.ipynb_checkpoints/
+__pycache__/
