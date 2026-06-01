@@ -4,7 +4,7 @@ An end-to-end Deep Learning project designed to recognize and classify handwritt
 
 ## 📊 Dataset
 The dataset utilized for this project contains approximately 1,000 images of handwritten medical prescriptions. Due to file size constraints, the raw data is not hosted in this repository. 
-* You can access and download the original dataset here: [Link to Kaggle Dataset]
+* You can access and download the original dataset here: [https://www.kaggle.com/datasets/nadaarfaoui/ocr-processed-handwritten-prescriptions]
 
 ## 🧠 Model Architecture
 The model is a custom Convolutional Neural Network (CNN) built from scratch using TensorFlow/Keras. It features a hierarchical block design:
